@@ -1,4 +1,4 @@
-package com.nativemodule
+package com.nativemodule.module
 
 import android.content.Context
 import android.widget.Toast
